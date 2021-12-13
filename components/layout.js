@@ -4,6 +4,9 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
+// const withPlugins = require('next-compose-plugins');
+// const optimizedImages = require('next-optimized-images');
+
 const name = 'Irtesam Virani'
 export const siteTitle = 'Blog written by Irtesam Virani'
 
