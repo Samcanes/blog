@@ -13,7 +13,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hey!</p>
+        <p>[Your Self Introduction]</p>
         <p>
           <a href=""></a>
         </p>
